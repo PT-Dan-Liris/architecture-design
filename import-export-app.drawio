@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-18T12:00:54.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="PeCieu2g_oNYdiQmJZRW" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-18T12:29:04.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="HKPKfeBVE4gx4vOSoPLM" version="13.6.2" type="github">
   <diagram id="ddz_AmPwnvKV4tSpgPz-" name="Page-1">
     <mxGraphModel dx="1394" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,6 +105,22 @@
             <mxPoint x="1010" y="274" as="sourcePoint" />
             <mxPoint x="1090" y="274" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Yj5f9GRhNWR6puFsaTgG-38" value="Service Bus" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.message;pointerEvents=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="241.62" width="59.67" height="44.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Yj5f9GRhNWR6puFsaTgG-39" value="" style="endArrow=none;startArrow=none;html=1;endFill=0;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="90" as="sourcePoint" />
+            <mxPoint x="1310" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="90" />
+              <mxPoint x="1340" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yj5f9GRhNWR6puFsaTgG-40" value="Blob Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1381.5" y="337.5" width="76.67" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
